@@ -1,2 +1,4 @@
+#Technical difficulties. This will be along shortly. It'll be worth the wait. In the meantime, note the license will be converted properly later on. The following conditions apply: This is not to be used for commercial, proprietary, for profit, illicit or unethical purposes or developments of hardware or software or devices or services or anything else under the sun under the umbrella of those conditions.  In the near future the current license will be replaced with our more concise AETHER-ENGINEERS license.  So for now it's this conditional GPL 3.0. Back to the beginning while the full notepad launches finally...
+
 # CODEX-for-cli-ai
 A way to manage LITM with agents like OMARG-AIR-AID modules and models, OMARG-OS, Gemini-CLI and other AI command line or systems level interfaces or CLI facing agents.
