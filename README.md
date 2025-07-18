@@ -1,5 +1,5 @@
 # CODEX-for-cli-ai
-A way to manage LITM with agents like OMARG-AIR-AID modules and models, OMARG-OS, Gemini-CLI and other AI command line or systems level interfaces or CLI facing agents.
+A way to manage LITM with agents like OMARG-AIR-AID modules and models, OMARG-OS, Gemini-CLI and other AI command line or systems level interfaces or CLI facing agents. Works with Websim! Just drop in the .git and go! If system structure doesn't exist Websim will create it within your assets. Websim will generate a default terminal with language model and deps ready to go. From there start chatting your new cloud system into being!
 
 ---
 
